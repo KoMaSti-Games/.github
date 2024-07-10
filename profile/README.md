@@ -20,10 +20,11 @@ Kuronami is a RPG with elements of a platform fighter. Players will explore intr
 ![Concept Art](https://example.com/concept_art.png)
 
 ## Development Team
-- **Developer:** ([@Kinetiik](https://github.com/Kinetiik)
-- **Developer:** ([@RobinKrn](https://github.com/ntrprs11)
-- **Developer:** ([@floeso](https://github.com/floeso)
-- **Developer:** ([@MikaStiebitz](https://github.com/MikaStiebitz)
+**Developer:**
+-  [@Fynn](https://github.com/Kinetiik)
+-  [@Robin](https://github.com/ntrprs11)
+-  [@Flo](https://github.com/floeso)
+-  [@Mika](https://github.com/MikaStiebitz)
 
 ## Contact Us
 For more information and updates on Kuronami, visit our [website](https://example.com/kuronami).
